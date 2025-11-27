@@ -1,0 +1,32 @@
+﻿[
+  {
+    "CarID": 1,
+    "Brand": "Toyota",
+    "Model": "Camry",
+    "Year": 2022,
+    "Color": "Черный",
+    "PricePerDay": 2500.0,
+    "IsAvailable": true,
+    "PlateNumber": "А123ВС77"
+  },
+  {
+    "CarID": 2,
+    "Brand": "Honda",
+    "Model": "Civic",
+    "Year": 2021,
+    "Color": "Белый",
+    "PricePerDay": 2000.0,
+    "IsAvailable": true,
+    "PlateNumber": "В456ОР77"
+  },
+  {
+    "CarID": 3,
+    "Brand": "BMW",
+    "Model": "X5",
+    "Year": 2023,
+    "Color": "Синий",
+    "PricePerDay": 5000.0,
+    "IsAvailable": true,
+    "PlateNumber": "С789ТТ77"
+  }
+]

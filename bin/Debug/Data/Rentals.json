@@ -1,0 +1,22 @@
+﻿[
+  {
+    "RentalID": 1,
+    "CarID": 3,
+    "ClientID": 3,
+    "RentalDate": "2025-11-25T18:08:55.5300468+04:00",
+    "ReturnDate": "2025-11-25T18:09:29.2709256+04:00",
+    "Days": 30,
+    "TotalPrice": 150000.0,
+    "Status": "Завершена"
+  },
+  {
+    "RentalID": 2,
+    "CarID": 1,
+    "ClientID": 3,
+    "RentalDate": "2025-11-25T18:09:15.0170943+04:00",
+    "ReturnDate": "2025-11-25T18:09:33.3022218+04:00",
+    "Days": 10,
+    "TotalPrice": 25000.0,
+    "Status": "Завершена"
+  }
+]

@@ -1,0 +1,32 @@
+﻿[
+  {
+    "UserID": 1,
+    "Username": "user1",
+    "Password": "123",
+    "FirstName": "Иван",
+    "LastName": "Петров",
+    "Phone": "+79161234567",
+    "DriverLicense": "77АВ123456",
+    "RegistrationDate": "2025-11-25T17:53:27.0419535+04:00"
+  },
+  {
+    "UserID": 2,
+    "Username": "user2",
+    "Password": "123",
+    "FirstName": "Мария",
+    "LastName": "Сидорова",
+    "Phone": "+79167654321",
+    "DriverLicense": "77СD654321",
+    "RegistrationDate": "2025-11-25T17:53:27.0429549+04:00"
+  },
+  {
+    "UserID": 3,
+    "Username": "1",
+    "Password": "123",
+    "FirstName": "Роман",
+    "LastName": "Колесников",
+    "Phone": "123",
+    "DriverLicense": "123",
+    "RegistrationDate": "2025-11-25T18:08:41.61821+04:00"
+  }
+]
