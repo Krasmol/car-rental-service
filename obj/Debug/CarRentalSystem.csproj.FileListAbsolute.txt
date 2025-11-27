@@ -1,0 +1,34 @@
+C:\Users\Student\Documents\CarRentalSystem\obj\Debug\CarRentalSystem.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\CarRentalSystem\obj\Debug\CarRentalSystem.Properties.Resources.resources
+C:\Users\Student\Documents\CarRentalSystem\obj\Debug\CarRentalSystem.csproj.GenerateResource.cache
+C:\Users\Student\Documents\CarRentalSystem\obj\Debug\CarRentalSystem.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\CarRentalSystem\bin\Debug\CarRentalSystem.exe.config
+C:\Users\Student\Documents\CarRentalSystem\bin\Debug\CarRentalSystem.exe
+C:\Users\Student\Documents\CarRentalSystem\bin\Debug\CarRentalSystem.pdb
+C:\Users\Student\Documents\CarRentalSystem\bin\Debug\JsonNet.ContractResolvers.dll
+C:\Users\Student\Documents\CarRentalSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Documents\CarRentalSystem\bin\Debug\Newtonsoft.Json.Encryption.dll
+C:\Users\Student\Documents\CarRentalSystem\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Student\Documents\CarRentalSystem\bin\Debug\JsonNet.ContractResolvers.xml
+C:\Users\Student\Documents\CarRentalSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student\Documents\CarRentalSystem\bin\Debug\Newtonsoft.Json.Encryption.xml
+C:\Users\Student\Documents\CarRentalSystem\obj\Debug\CarRenta.52418D6E.Up2Date
+C:\Users\Student\Documents\CarRentalSystem\obj\Debug\CarRentalSystem.exe
+C:\Users\Student\Documents\CarRentalSystem\obj\Debug\CarRentalSystem.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\bin\Debug\CarRentalSystem.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\bin\Debug\CarRentalSystem.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\bin\Debug\CarRentalSystem.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\bin\Debug\JsonNet.ContractResolvers.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\bin\Debug\Newtonsoft.Json.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\bin\Debug\Newtonsoft.Json.Encryption.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\bin\Debug\System.Reflection.TypeExtensions.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\bin\Debug\JsonNet.ContractResolvers.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\bin\Debug\Newtonsoft.Json.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\bin\Debug\Newtonsoft.Json.Encryption.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\obj\Debug\CarRenta.52418D6E.Up2Date
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Дьяконов\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.pdb
